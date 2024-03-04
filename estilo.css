@@ -21,16 +21,15 @@ padding: 24px 0;
 
 .cabecalho-imagem{
 width: 20%;
+}
 
-.lista-item
+.lista-item{
     display: inline-block;
     margin: 0 16px;
     font-size: 24px;
 
 }
 
-
-}
 
 
 
