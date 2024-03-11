@@ -32,7 +32,7 @@ width: 20%;
 
 .secao1{
     background: rgb(204,62,62);
-background: linear-gradient(90deg, rgba(204,62,62,1) 36%, rgba(2,0,36,1) 100%);
+background: linear-gradient(180deg, rgba(204,62,62,1) 36%, rgba(2,0,36,1) 100%);
 
     display: flex;
 
