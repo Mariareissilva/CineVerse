@@ -31,8 +31,10 @@ width: 20%;
 }
 
 .secao1{
+    background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(215,63,63,1) 50%, rgba(0,0,0,1) 100%);
     display: flex;
-background-color: #880606;
+
 
 }  
 
