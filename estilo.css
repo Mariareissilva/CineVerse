@@ -31,6 +31,7 @@ width: 20%;
 }
 
 .secao1{
+    display: flex;
 background-color: #880606;
 
 }  
