@@ -11,11 +11,11 @@ body{
 }
 .cabecalho {
     display: flex;
-background: #cc3e3e;;
-align-items: center;
-justify-content: space-around ;
-font-size: 30px;
-padding: 24px 0;
+    background: #cc3e3e;;
+    align-items: center;
+    justify-content: space-around ;
+    font-size: 30px;
+    padding: 24px 0;
 }
 
 
@@ -33,14 +33,17 @@ width: 20%;
 .secao1{
     display: flex;
     background: rgb(204,62,62);
-background: linear-gradient(180deg, rgba(204,62,62,1) 36%, rgba(2,0,36,1) 100%);
-color:black;
-align-items: center;
-justify-content: center;
+    background: linear-gradient(180deg, rgba(204,62,62,1) 36%, rgba(2,0,36,1) 100%);
+    color:black;
+    align-items: center;
+    justify-content: center;
+}
  
-    
+{
+    .secao1-div
+    width:35%;
+}
 
-}  
 
 
 
