@@ -47,6 +47,11 @@ width: 20%;
 .secao2{
     background-color: black;
 }
+.secao2-titulo{
+    font-family: "Angkor", serif;
+  font-weight: 400;
+  font-style: normal;
+}
 
 
 
