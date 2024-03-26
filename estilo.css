@@ -62,7 +62,8 @@ width: 20%;
     font-size: 60px;
 }
 .secao2-todos-os-filmes{
-    display: flex;
+    display: grid;
+    grid-template-columns: 25% 25% 25% 25%;
 }
 .secao2-todos-os-filmes img{
  width: 200px;
