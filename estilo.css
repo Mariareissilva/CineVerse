@@ -59,8 +59,14 @@ width: 20%;
 }
 .secao2-titulo{
 
-    font-size: 40px;
+    font-size: 60px;
 }
-
+.secao2-todos-os-filmes{
+    display: flex;
+}
+.secao2-todos-os-filmes img{
+ width: 200px;
+ height: 300px;
+}
 
 
