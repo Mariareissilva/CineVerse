@@ -39,8 +39,8 @@ width: 20%;
     justify-content: center;
 }
  
-{
-    .secao1-div
+
+    .secao1-div{
     width:35%;
 }
 
@@ -57,7 +57,10 @@ width: 20%;
  color: black
 
 }
+.secao2-titulo{
 
+    font-size: 40px;
+}
 
 
 
