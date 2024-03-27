@@ -70,7 +70,9 @@ width: 20%;
  width: 200px;
  height: 300px;
 }
-
+.secao1-imagem {
+    width: 40%;
+}
 .rodape{
     text-align: center;
     color:white;
